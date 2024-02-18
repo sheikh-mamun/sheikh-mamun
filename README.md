@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheikh-mamun
 - 👀 I’m interested in ...code
-- 🌱 I’m currently learning ...javascript
+- 🌱 I’m currently learning ...javascript and php
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
